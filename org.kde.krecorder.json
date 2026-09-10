@@ -20,18 +20,18 @@
             "buildsystem": "cmake-ninja",
             "builddir": true,
             "sources": [
-              {
-                "type": "archive",
-                "url": "https://download.kde.org/stable/release-service/26.04.3/src/krecorder-26.04.3.tar.xz",
-                "sha256": "af7a5e67773006e252616ca165405654d649089787bc646b493f91ad2580a260",
-                "x-checker-data": {
-                  "type": "anitya",
-                  "project-id": 241422,
-                  "stable-only": true,
-                  "is-main-source": true,
-                  "url-template": "https://download.kde.org/stable/release-service/$version/src/krecorder-$version.tar.xz"
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/26.08.1/src/krecorder-26.08.1.tar.xz",
+                    "sha256": "bbf1e147e9f89d222404eda2be3ad146ca0ed7c7415a03f96183c84db28ea4b4",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 241422,
+                        "stable-only": true,
+                        "is-main-source": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/krecorder-$version.tar.xz"
+                    }
                 }
-              }
             ]
         }
     ]
