@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.08.2/src/krecorder-26.08.2.tar.xz",
-                    "sha256": "36bd1ee2d6cd27b65e50fe0cd29d8a1ca7bc7d06e186a7625c64b6d24a8b2f79",
+                    "url": "https://download.kde.org/stable/release-service/26.08.3/src/krecorder-26.08.3.tar.xz",
+                    "sha256": "6c0c8cea94241625bef4108026b57ed16199d1e58a6c3c3b8cd06044a6c161f8",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 241422,
